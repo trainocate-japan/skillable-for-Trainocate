@@ -1,4 +1,4 @@
-# <span style="color: rgba(0, 0, 0, 0.0); font-size: small">skillable-for-Trainocate</span>
+# <span aria-hidden="true" class="sr-only">skillable-for-Trainocate</span>
 # Skillable演習でよくあるトラブル
 ## トレノケートオリジナルコースの場合
 - キーボード入力ができない
